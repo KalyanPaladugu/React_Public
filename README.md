@@ -96,8 +96,10 @@ ___
             + useEffect()
         + Redux intro
 
-+ HTML(Hyper Text Markup Language)
+### Webdesign and Web development
 
++ HTML(Hyper Text Markup Language)
++ To display structure data in the browser we can use HTML
 + Semantic Elements
 
     + A semantic element clearly describes it's meaning to both developer and as well as browser
@@ -109,8 +111,97 @@ ___
     + table
     + footer
 
++ Block level elements
 
-Referance video links:
-======================
-+ [Day1](https://transcripts.gotomeeting.com/#/s/964aed2898e1cfb2662ff0745be0fe01c557c23f5555de4c6b3f6ab0bcb635e5)
-+ [Day2](https://transcripts.gotomeeting.com/#/s/8a33b0d7a9517eb3dbd3deef05e08473063f19b600e80670dbccdee453b5ca9b)
+    - Block-level elements occupy full width of the device
+    - It always starts on a new line
+
+    + <div>
+    + section
+    + header
+    + footer
+    + figure
+    + table
+
+- Inline elements
+
++ It will only takes up as much as necessary
++ It does not start on a new line
++ <a>
++ <img>
++ <br>
++ <input>
++ <label>
++ <span>
++ <button>
+
+
++ Lists
+
+    + Unorder List
+  ```
+   <ul>
+      <li></li>
+       <li></li>
+        <li></li>
+   </ul>
+   ```
+
+
+Task:
+=====
+
++ <iframes>
++ <audio>
++ <video>
++ <figure>
++ <div>
+
+
+# CSS (Cascading Style Sheet)
+
++ CSS is the language which is used to style an HTML document
++ CSS Syntax
+    ```
+    selector {
+        property1:property-value;
+        property2:property-value;
+    }
+    ```
+
++ Types of CSS
+    + Inline CSS
+    + Internal CSS
+    + External CSS
+
+#### selectors
+
++ CSS selectors mainly used to select the HTML elements you want to style
+
+    + Simple selectors
+        + By HTML element name
+        + class
+        + id
+    + Grouping selectors
+    + Universal selector
+         + `*`
+
+Task:
+=====
+    + Combinator selectors
+    + Pseudo-elements selectors
+    + Pseudo-class selectors
+    + Attribute selectors
+
++ Margin
+    + margin: 5px - (All adjacent sides)
+    + margin: 10px 5px - (10px-top& bottom; 5px- left & right sides)
+    + margin: 10px 5px 30px - (10px - top, 5px - left & right sides, 30px - bottom sides)
+    + margin: 5px 10px 15px 20px - (5px -top, 10px - right, 15px - bottom, 20px - left))
++ Padding
+
++ box-shadow
+    + box-shadow: 0px 4px 4px 8px (h-offset,v-offset,blur,spread color)
+
++ flex-box
+    + display:flex
