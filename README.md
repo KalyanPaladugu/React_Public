@@ -205,9 +205,46 @@ Task:
 
 + flex-box
     + display:flex
-	
-	
-+ [Day1](https://transcripts.gotomeeting.com/#/s/964aed2898e1cfb2662ff0745be0fe01c557c23f5555de4c6b3f6ab0bcb635e5)
-+ [Day2](https://transcripts.gotomeeting.com/#/s/8a33b0d7a9517eb3dbd3deef05e08473063f19b600e80670dbccdee453b5ca9b)
-+ [Day3](https://transcripts.gotomeeting.com/#/s/3c0757d2d79412ea81ed9a12b36889eaebcc5193ccc4931bdf12918781fda559)
-+ [Day4](https://transcripts.gotomeeting.com/#/s/9a8381cb290c9afed63d57a238940aec65915e392a9cf8041c8b82b2ff68e70b)
+
+#### Flex-box
+
++ display:flex
++ justify-content
++ flex-wrap
++ flex-direction
++ flex-flow
+
+
+### Responsive Webdesign
+
++ Creating web pages that look good on all devices we can use Responsive Web Design
++ meta tag with viewport
++ Media queries
+
++ `@media` rule 
+
++ Extra small devies
+    + `@media only screen and (max-width:600px){
+        // css styles
+    }`
+
++ Small  devices
+    + `@media only screen and (min-width:600px) {
+        // css styles
+    }`
+
++ Medium devices
+    + ` @media only screen and (min-width:768px){
+        // css styles
+    }`
+
++ Large Devices
+    + `@media only screen and (min-width:992px){
+        // css styles
+    }`
+
++ Extra large devices
+    + ` @media only screen and (min-width:1200px){
+        // css styles
+    }`
+    
