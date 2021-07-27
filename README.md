@@ -248,3 +248,12 @@ Task:
         // css styles
     }`
     
+
+ + [Day1](https://transcripts.gotomeeting.com/#/s/964aed2898e1cfb2662ff0745be0fe01c557c23f5555de4c6b3f6ab0bcb635e5)   
+
++ [Day2](https://transcripts.gotomeeting.com/#/s/8a33b0d7a9517eb3dbd3deef05e08473063f19b600e80670dbccdee453b5ca9b)
++ [Day3](https://transcripts.gotomeeting.com/#/s/3c0757d2d79412ea81ed9a12b36889eaebcc5193ccc4931bdf12918781fda559)
+
++ [Day4](https://transcripts.gotomeeting.com/#/s/9a8381cb290c9afed63d57a238940aec65915e392a9cf8041c8b82b2ff68e70b)
+
++ [Day5](https://transcripts.gotomeeting.com/#/s/ab0e41b5ea8cc68ca183c8209397bb12403f72f981f0d6eb60e7ceb415c0c553)
