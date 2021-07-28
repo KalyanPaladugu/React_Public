@@ -247,7 +247,54 @@ Task:
     + ` @media only screen and (min-width:1200px){
         // css styles
     }`
-    
+
+
+# Bootstrap
+
++ It is a HTMl,CSS and javascript framework
++ We can implement responsive websties    
+
+
++ Online
+    + CDN links
++ Offline
+    + Download files from getbootstrap.com website
+
+
+
+Task:
+=====
+
++ Develop Resume Page using Bootstrap
+
+
++ Color codes
++ Margin & Padding
++ Cards
++ Tables
++ Grid system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  + [Day1](https://transcripts.gotomeeting.com/#/s/964aed2898e1cfb2662ff0745be0fe01c557c23f5555de4c6b3f6ab0bcb635e5)   
 
