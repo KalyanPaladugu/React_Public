@@ -127,13 +127,13 @@ ___
 
 + It will only takes up as much as necessary
 + It does not start on a new line
-+ <a>
-+ <img>
-+ <br>
-+ <input>
-+ <label>
-+ <span>
-+ <button>
++ `<a>`
++ `<img>`
++ `<br>`
++ `<input>`
++ `<label>`
++ `<span>`
++ `<button>`
 
 
 + Lists
