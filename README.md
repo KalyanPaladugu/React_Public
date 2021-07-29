@@ -348,3 +348,5 @@ Task:
 + [Day4](https://transcripts.gotomeeting.com/#/s/9a8381cb290c9afed63d57a238940aec65915e392a9cf8041c8b82b2ff68e70b)
 
 + [Day5](https://transcripts.gotomeeting.com/#/s/ab0e41b5ea8cc68ca183c8209397bb12403f72f981f0d6eb60e7ceb415c0c553)
++ [Day6](https://transcripts.gotomeeting.com/#/s/c246429e3e5f4e93ef497ea3185edb8b500ec041ce5ab02c6c2952b5eda16549)
++ [Day7](https://transcripts.gotomeeting.com/#/s/0e84cf9654b585a29796541be16f7a3499a5140d7807e2bbc90d08d4e0c533b6)
