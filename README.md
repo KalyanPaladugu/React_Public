@@ -127,13 +127,13 @@ ___
 
 + It will only takes up as much as necessary
 + It does not start on a new line
-+ `<a>`
-+ `<img>`
-+ `<br>`
-+ `<input>`
-+ `<label>`
-+ `<span>`
-+ `<button>`
++ <a>
++ <img>
++ <br>
++ <input>
++ <label>
++ <span>
++ <button>
 
 
 + Lists
@@ -148,13 +148,15 @@ ___
    ```
 
 
-##### Task:
+Task:
+=====
 
-+ `<iframes>`
-+ `<audio>`
-+ `<video>`
-+ `<figure>`
-+ `<div>`
++ <iframes>
++ <audio>
++ <video>
++ <figure>
++ <div>
+
 
 # CSS (Cascading Style Sheet)
 
@@ -267,17 +269,61 @@ Task:
 
 
 + Color codes
+    + .*-primary(* - maincomponent)   -  blue
+    + .bg-secondary  - gray
+    +  success   -  green
+    +  danger    -  red
+    +  info      -  cyan
+    +  light     -  lightgray
+    +  dark      -  black
+    +  warning   -  yellow
+    +  white     -  white
+    +  muted     -  muted
+
++ Text, Background, Button ,Alerts
++ Alerts
 + Margin & Padding
-+ Cards
-+ Tables
+    + .ml-*
+        + * - (0-5)
+        + 0 - 0rem
+        + 1 - 0.25rem
+        + 2 - 0.5rem
+        + 3 - 1rem
+        + 4 - 1.5rem
+        + 5 - 3rem
+     + .pl-*   
+        + * - (0-5)
+        + 0 - 0rem
+        + 1 - 0.25rem
+        + 2 - 0.5rem
+        + 3 - 1rem
+        + 4 - 1.5rem
+        + 5 - 3rem
+ 
+
 + Grid system
+    + Extra-small (<576px)    -  .col-* (* - (1 -12 columns))
+    + Small (>= 576px)        -  .col-sm-*
+    + Medium (>=768px)        -  .col-md-*
+    + Large (>=992px)         -  .col-lg-*
+    + Extra Large (>=1200px)  -  .col-xl-*
++ Tables
+
++ Cards
 
 
+# JavaScript
 
++ It is a text-based programming language used on both client-side and server-side that allows you to make webpages interactive. 
 
+### History of JavaScript
 
-
-
++ For implementing the dynamic behaviour of website
++ It was called as `live script` in initial stages
++ `Brenden Eich` (Netscape navigator) was introduced this `JavaScript` (sep 1995)
++ JavaScript is an interpreter language
++ He tiedup with ECMA(EcmaScript) (European Computer Manufacturer's Association)
++ To implement highend js moduels, we've focus on `Es-6`
 
 
 
@@ -302,4 +348,3 @@ Task:
 + [Day4](https://transcripts.gotomeeting.com/#/s/9a8381cb290c9afed63d57a238940aec65915e392a9cf8041c8b82b2ff68e70b)
 
 + [Day5](https://transcripts.gotomeeting.com/#/s/ab0e41b5ea8cc68ca183c8209397bb12403f72f981f0d6eb60e7ceb415c0c553)
-+ [Day6](https://transcripts.gotomeeting.com/#/s/c246429e3e5f4e93ef497ea3185edb8b500ec041ce5ab02c6c2952b5eda16549)
